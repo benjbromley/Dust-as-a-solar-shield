@@ -1,8 +1,9 @@
 # Dust-as-a-solar-shield<br>
-Bromley, B. C., Khan, S. H., and Kenyon S. J.<br>
+Bromley, B. C., Khan, S. H., and Kenyon, S. J.<br>
 Code and Figures associated with manuscript (TBA)<br>
 Current content: tar file with scripts that generate figures and animations.<br>
 <p>
+ <pre>
 ____Standalone script files____<br>
  size   date modified         name<br>
  2735 2022-10-27 17:23 pclm_Fig1a_mieattn.py<br>
@@ -17,7 +18,8 @@ ____Standalone script files____<br>
  2603 2022-10-27 17:38 pclm_Fig7a_miesalt.py<br>
  6071 2022-10-27 17:37 pclm_Fig7b_miedesigner.py<br>
 13791 2022-10-25 08:37 pclm_Fig8_moonjetjpl.py<br>
- </p><p>
+</pre>
+</p><p><pre>
 ____Utility scripts____<br>
 6430 2022-07-02 08:35 scatter.py<br>
  1089 2022-06-24 19:51 myfig.py<br>
@@ -25,8 +27,8 @@ ____Utility scripts____<br>
  4151 2022-10-27 07:01 nbody.py<br>
 10537 2022-08-15 22:07 attnmie.py<br>
   691 2022-08-15 06:10 constants.pyv
- </p><p>
+</pre></p><p><pre>
 ____External module(s)____<br>
 Scott Prahl's miepython<br>
 &nbsp;&nbsp;&nbsp;https://github.com/scottprahl/miepython
-</p>
+</pre></p>
